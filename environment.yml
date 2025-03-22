@@ -1,0 +1,20 @@
+name: cell-toolkit
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - numpy
+  - scipy
+  - matplotlib
+  - h5py
+  - ipympl
+  - ipywidgets
+  - jupyterlab
+  - jupyterlab-myst
+  - tqdm 
+  - scikit-image
+  - hvplot
+  - seaborn
+  - timple
+  - rich
+  
